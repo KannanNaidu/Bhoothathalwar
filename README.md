@@ -4,7 +4,7 @@ Custom Joomla 5 template.
 
 ## Description
 
-At the moment this template is for custom projects and personl use.
+At the moment this template is for custom projects and personal use.
 
 ## Getting Started
 
@@ -12,3 +12,5 @@ At the moment this template is for custom projects and personl use.
 
 * Tailwincss
 * AlpineJS
+* Gulp
+* Joomla 5
